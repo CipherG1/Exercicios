@@ -15,4 +15,4 @@ console.log(escola.substring(0, 3))// traz da letra 0 até a letra 3
 console.log('Escola '.concat(escola).concat("!"))
 console.log('Escola ' + escola + "!")
 console.log(escola.replace(3, 'e')) //replace substitui o 3 de Cod3r, por 'e', formando 'Coder'
-console.log('Ana,Maria,Pedro'.split(',')) //separador com , *"_Array_"* um modo de organizar
+console.log('Ana,Maria,Pedro'.split(','))

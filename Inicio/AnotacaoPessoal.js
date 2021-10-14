@@ -1,1 +1,0 @@
-//String é uma cadeia de caracteres "Texto" 'texto'
