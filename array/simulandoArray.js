@@ -6,3 +6,6 @@ Object.defineProperty(quaseArray, 'toString', {
 })
 
 console.log(quaseArray[0])
+
+const meuArray = ['Rafael', 'Ana', 'Bia']
+console.log(quaseArray.toString(), meuArray)
